@@ -1,2 +1,2 @@
 # Password-checker
-A simple password stringth checker built in Python
+A simple password strength checker built in Python
