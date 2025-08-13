@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 # Password-checker
 A simple password strength checker built in Python
 =======
@@ -15,7 +15,7 @@ A Python tool to check password strength with optional breach detection.
 ## 📦 Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR-USERNAME/password-checker.git
+git clone https://github.com/535amar/Password-checker.git
 cd password-checker
 pip install -r requirements.txt
 >>>>>>> 39f33d3 (Level up for readme.md)
